@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsApplication1">
+</Property><Property Name="Solution File" Value="D:\C#Projeler\WindowsApplication1\WindowsApplication1.sln">
+</Property><Property Name="Date" Value="27 Şubat 2012 Pazartesi">
+</Property><Property Name="Time" Value="17:14">
+</Property></Properties><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsApplication1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsApplication1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsApplication1" Source="WindowsApplication1\WindowsApplication1.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

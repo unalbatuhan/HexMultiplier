@@ -1,0 +1,10 @@
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\bin\Debug\[SCT]Hex Multiplier.exe
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\bin\Debug\[SCT]Hex Multiplier.pdb
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\bin\Debug\[SCT]Hex Multiplier.xml
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\obj\Debug\HexMultiplier.Form1.resources
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\obj\Debug\HexMultiplier.Resources.resources
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\obj\Debug\[SCT]Hex Multiplier.exe
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\obj\Debug\[SCT]Hex Multiplier.xml
+D:\C#Projeler\WindowsApplication1\WindowsApplication1\obj\Debug\[SCT]Hex Multiplier.pdb
